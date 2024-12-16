@@ -22,6 +22,6 @@ A full-stack application using **GraphQL** to manage tasks with queries, mutatio
 
 2. Start the server:
    ```bash
-node server.js
+   node server.js
 
 3. Access GraphQL Playground at http://localhost:4000/graphql.
